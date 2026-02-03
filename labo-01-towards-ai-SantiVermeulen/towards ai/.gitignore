@@ -1,0 +1,65 @@
+# =============== #
+# Unity Generated #
+# =============== #
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Uu]ser[Ss]ettings/
+
+# =================================================================== #
+# Visual Studio / Rider / Monodevelop / VS Code generated files       #
+# =================================================================== #
+ExportedObj/
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ======================= #
+# Operating System files  #
+# ======================= #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ================================= #
+# Asset Store-specifieke bestanden  #
+# ================================= #
+/Assets/AssetStoreTools*
+
+# ======================== #
+# Andere bestanden         #
+# ======================== #
+# Crash report files
+crash_handler.exe
+crashreporter.cfg
+
+# Build files
+*.apk
+*.unitypackage
+
+# Soms gegenereerde mappen
+/[Aa]ssets/AddressableAssetsData/*.*.bin*
+/[Aa]ssets/StreamingAssets/aa.meta
+/[Aa]ssets/StreamingAssets/aa/*
